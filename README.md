@@ -1,6 +1,6 @@
 # Lab08 Guide
 ## Getting Started
-[Lab Introduction Video]()
+[Lab Introduction Video](https://youtu.be/4qre8IRmaUw)
 - Please clone the [Mod08 Code Examples](https://github.com/lhindman/cs121-mod08-examples.git). 
 
 ### Code Style Requirements
